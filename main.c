@@ -129,7 +129,7 @@ startup()
 {
     
     printf("\n"
-           "SSHPassword provided by Lance Haynie <lance.r.haynie@citi.com>\n"
+           "SSHPassword provided by Lance Haynie <lance@hayniemail.com>\n"
            "This service is provided as a courtesy and comes with no guarantee.\n"
            "You're welcome!\n\n");
 
